@@ -1,11 +1,11 @@
 # Bias Audit
 
 ## Overview
-This project focuses on identifying and analysing potential bias in datasets and model outputs.  
-It explores how data-driven systems can produce unequal outcomes and highlights the importance of fairness and transparency in software and AI systems.
+This project presents a bias audit of a machine-learning credit scoring model used for loan eligibility decisions. It examines potential bias in both datasets and model outputs, highlighting how data-driven systems can produce unequal outcomes.
 
-The audit was completed as part of an **AI & Machine Learning bootcamp**, applying analytical thinking and ethical considerations to real-world data problems.
+The audit evaluates model performance across different credit score groups using quantitative metrics, visual analysis, and comparisons before and after bias-mitigation techniques. It emphasizes fairness, transparency, and accountability in ethical AI, particularly within financial systems.
 
+Completed as part of an AI & Machine Learning bootcamp, this project applies analytical thinking and ethical considerations to real-world data challenges, demonstrating responsible AI practices in software and banking contexts.
 ---
 
 ## What This Project Does
